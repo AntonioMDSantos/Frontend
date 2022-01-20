@@ -7,3 +7,11 @@
 ```
 cd Front-end
 ```
+
+### O segundo passo é apenas startar o servidor com o comando
+
+```
+npm start
+```
+
+### E o programa vai rodar na porta http://localhost:3000
